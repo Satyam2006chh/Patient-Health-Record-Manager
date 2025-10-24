@@ -1,0 +1,14 @@
+[
+    {
+        "id": "0189eb0d-f7d5-4c17-b3df-7e332c54daa8",
+        "name": "Satyam",
+        "email": "satyam@gmail.com",
+        "age": 18,
+        "blood_group": "B+",
+        "diseases": [
+            "HeartDisease"
+        ],
+        "allergies": null,
+        "contact_number": "8445799110"
+    }
+]
